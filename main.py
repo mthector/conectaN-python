@@ -1,7 +1,6 @@
 # ConectaN - Juego de tablero configurable
 # Autor: Héctor Tudela Morales
-# IES Zaidín-Vergeles
-# Desarrollo de aplicaciones en lenguaje Python
+
 
 # Este módulo se utiliza para generar comportamientos aleatorios en la inteligencia artificial del juego.
 import random
@@ -716,4 +715,5 @@ def main():
 # ============================================================================
 
 if __name__ == "__main__":
+
     main()
